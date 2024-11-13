@@ -1,6 +1,7 @@
 [
   {
     "img":"asset/A-NEW-OLD-PLAY_2-scaled.jpg",
+    "poster":"posters/A NEW OLD PLAY.jpg",
     "title":"A NEW OLD PLAY",
     "director":"QIU JIONGJIONG",
     "screenTime":"2021 / 179MIN / DCP",
@@ -10,6 +11,7 @@
   },
   {
     "img":"asset/LADY-VENGEANCE_1.png",
+    "poster":"posters/LADY VENGEANCE.jpg",
     "title":"LADY VENGEANCE",
     "director":"PARK CHAN-WOOK",
     "screenTime":"2005 / 115MIN / 35MM",
@@ -29,6 +31,7 @@
   },
   {
     "img":"asset/A-BRIGHTER-SUMMER-DAY.jpg",
+    "poster":"posters/A BRIGHTER SUMMER DAY.jpg",
     "title":"A BRIGHTER SUMMER DAY",
     "director":"EDWARD YANG",
     "screenTime":"1991 / 237MIN / DCP",
@@ -38,6 +41,7 @@
   },
   {
     "img":"asset/Harvey-2.jpg",
+    "poster":"posters/HARVEY.jpg",
     "title":"HARVEY",
     "director":"HENRY KOSTER",
     "screenTime":"1950 / 104MIN / DCP",
@@ -48,6 +52,7 @@
   {
     "img":"/asset/whiteribbon2_600x391-1600x900-c-default.jpg",
     "title":"THE WHITE RIBBON",
+    "poster":"posters/THE WHITE RIBBON.jpg",
     "director":"MICHAEL HANEKE",
     "screenTime":"2009 / 144MIN / 35MM",
     "link":"https://metrograph.com/film/?vista_film_id=9999002154",
@@ -56,6 +61,7 @@
   },
   {
     "img":"/asset/NOCTURNES_1.jpg",
+    "poster":"posters/NOCTURNES.jpg",
     "title":"NOCTURNES",
     "director":"ANIRBAN DUTTA, ANUPAMA SRINIVASAN",
     "screenTime":"2024 / 83MIN / DCP",
@@ -65,6 +71,7 @@
   },
   {
     "img":"/asset/KUNG-FU-HUSTLE_4.jpg",
+    "poster":"posters/KUNG FU HUSTLE.jpg",
     "title":"KUNG FU HUSTLE",
     "director":"STEPHEN CHOW",
     "screenTime":"2004 / 99MIN / 35MM",
@@ -74,6 +81,7 @@
   },
   {
     "img":"/asset/Youth-Hard-Times.jpeg",
+    "poster":"posters/YOUTH (HARD TIMES).jpg",
     "title":"YOUTH (HARD TIMES)",
     "director":"WANG BING",
     "screenTime":"2024 / 227MIN / DCP",
@@ -83,6 +91,7 @@
   },
   {
     "img":"/asset/irmavep028-1.jpg",
+    "poster":"posters/IRMA VEP.jpg",
     "title":"IRMA VEP",
     "director":"OLIVIER ASSAYAS",
     "screenTime":"1996 / 99MIN / DCP",
@@ -92,6 +101,7 @@
   },
   {
     "img":"/asset/MON-ONCLE_9.jpg",
+    "poster":"posters/MON ONCLE.jpg",
     "title":"MON ONCLE",
     "director":"JACQUES TATI",
     "screenTime":"1958 / 117MIN / DCP",
@@ -101,6 +111,7 @@
   },
   {
     "img":"/asset/WITCHHAMMER_2.jpg",
+    "poster":"posters/WITCHHAMMER.jpg",
     "title":"WITCHHAMMER",
     "director":"OTAKAR VÁVRA",
     "screenTime":"1970 / 107MIN / DCP",
@@ -110,6 +121,7 @@
   },
   {
     "img":"/asset/THE-BLOB_1.jpg",
+    "poster":"posters/THE BLOB.jpg",
     "title":"THE BLOB",
     "director":"CHUCK RUSSELL",
     "screenTime":"1988 / 95MIN / DCP",
@@ -119,6 +131,7 @@
   },
   {
     "img":"/asset/NOSFERATU-THE-VAMPYRE_9.jpg",
+    "poster":"posters/NOSFERATU THE VAMPYRE.jpg",
     "title":"NOSFERATU THE VAMPYRE",
     "director":"WERNER HERZOG",
     "screenTime":"1979 / 107MIN / DCP",
@@ -128,6 +141,7 @@
   },
   {
     "img":"/asset/CASTLE-IN-THE-SKY_4.jpg",
+    "poster":"posters/CASTLE IN THE SKY.jpg",
     "title":"CASTLE IN THE SKY",
     "director":"HAYAO MIYAZAKI",
     "screenTime":"1986 / 125MIN / DCP",
@@ -137,6 +151,7 @@
   },
   {
     "img":"/asset/A-REPORT.GUESTS_2.jpg",
+    "poster":"posters/PARTY AND THE GUESTS.jpg",
     "title":"PARTY AND THE GUESTS",
     "director":"JAN NĚMEC",
     "screenTime":"1966 / 71MIN / 4K DCP",
@@ -146,6 +161,7 @@
   },
   {
     "img":"/asset/MURDERING-THE-DEVIL_1_resized.jpg",
+    "poster":"posters/MURDERING THE DEVIL.jpg",
     "title":"MURDERING THE DEVIL",
     "director":"ESTER KRUMBACHOVÁ",
     "screenTime":"1970 / 77MIN / 4K DCP",
@@ -155,6 +171,7 @@
   },
   {
     "img":"/asset/ALL-ABOUT-LILY-CHOU-CHOU_1.jpg",
+    "poster":"posters/ALL ABOUT LILY CHOU-CHOU.jpg",
     "title":"ALL ABOUT LILY CHOU-CHOU",
     "director":"SHUNJI IWAI",
     "screenTime":"2001 / 146MIN / DCP",
@@ -164,6 +181,7 @@
   },
   {
     "img":"/asset/BASIC-INSTINCT_4_resized.jpg",
+    "poster":"posters/BASIC INSTINCT.jpg",
     "title":"BASIC INSTINCT",
     "director":"PAUL VERHOEVEN",
     "screenTime":"1992 / 127MIN / DCP",
@@ -173,6 +191,7 @@
   },
   {
     "img":"/asset/A-TIME-TO-LIVE.DIE.jpg",
+    "poster":"posters/A TIME TO LIVE AND A TIME TO DIE.jpg",
     "title":"A TIME TO LIVE AND A TIME TO DIE",
     "director":"HOU HSIAO-HSIEN",
     "screenTime":"1985 / 138MIN / DCP",
@@ -182,6 +201,7 @@
   },
   {
     "img":"/asset/Aviators.jpg",
+    "poster":"posters/THE AVIATOR'S WIFE.jpg",
     "title":"THE AVIATOR'S WIFE",
     "director":"ÉRIC ROHMER",
     "screenTime":"1981 / 106MIN / DCP",
@@ -191,6 +211,7 @@
   },
   {
     "img":"/asset/flowers-of-shanghai.jpeg",
+    "poster":"posters/FLOWERS OF SHANGHAI.jpg",
     "title":"FLOWERS OF SHANGHAI",
     "director":"HOU HSIAO-HSIEN",
     "screenTime":"1998 / 113MIN / ENG SUB / DCP",
@@ -200,6 +221,7 @@
   },
   {
     "img":"/asset/THE-GREAT-BUDDHA.jpg",
+    "poster":"posters/THE GREAT BUDDHA+.jpg",
     "title":"THE GREAT BUDDHA+",
     "director":"HUANG HSIN-YAO",
     "screenTime":"2017 / 102MIN / DCP",
@@ -209,6 +231,7 @@
   },
   {
     "img":"/asset/RED-MOON-TIDE_15.jpg",
+    "poster":"posters/RED MOON TIDE.jpg",
     "title":"RED MOON TIDE",
     "director":"LOIS PATIÑO",
     "screenTime":"2020 / 84MIN / DCP",
