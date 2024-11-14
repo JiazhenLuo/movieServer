@@ -30,7 +30,7 @@ This project is a simple Node.js and Express server that provides a  API for mov
 
 1.	**Clone this repository:**
 
-    `git clone <repository-url>
+    `git clone < https://github.com/JiazhenLuo/movieServer >
 `
 
 2.	**Navigate to the project directory:**
