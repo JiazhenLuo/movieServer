@@ -1,6 +1,6 @@
 # Movie Data API
 
-A simple Express-based API server that serves movie information from a JSON file. This API provides endpoints to retrieve general movie data and specific movie details based on query parameters.
+This project is a simple Node.js and Express server that provides a  API for movie data screening in Metrograph, November, 2024. It serves data from a JSON file (`MovieData.json`) and allows clients to fetch movie information.
 
 ## Features
 
@@ -30,16 +30,18 @@ A simple Express-based API server that serves movie information from a JSON file
 
 1.	**Clone this repository:**
 
-git clone <repository-url>
+    `git clone <repository-url>
+`
 
 2.	**Navigate to the project directory:**
 
-cd movie-data-api
+    `cd movie-data-api
+`
 
 3.	**Install dependencies:**
 
-npm install
-
+    `npm install
+`
 ### Running the Server
 
 1.	**Start the server:**
@@ -64,29 +66,19 @@ curl http://localhost:3001/
 
 **Example Response:**
 
+```json
 [
-
-{
-
-"img": "image-url",
-
-"title": "Movie Title",
-
-"director": "Director Name",
-
-"screentime": "Screen Time",
-
-"link": "URL to Movie",
-
-"time": "Duration",
-
-"description": "Movie Description"
-
-},
-
-...
-
+    {
+        "img": "image-url",
+        "title": "Movie Title",
+        "director": "Director Name",
+        "screentime": "Screen Time",
+        "link": "URL to Movie",
+        "time": "Duration",
+        "description": "Movie Description"
+    },
 ]
+```
 
 **Movie Details Endpoint**
 
@@ -112,10 +104,10 @@ Retrieves movie details based on the provided query parameters.
 
 **Example Request:**
 
-curl "http://localhost:3001/MovieData?title=The%20Aviator's%20Wife&director=Éric%20Rohmer"
+```curl "http://localhost:3001/MovieData?title=The%20Aviator's%20Wife&director=Éric%20Rohmer"```
 
 **Example Response:**
-
+```json
   {
     "img":"asset/Aviators.jpg",
     "poster":"posters/THE AVIATOR'S WIFE.jpg",
@@ -124,8 +116,9 @@ curl "http://localhost:3001/MovieData?title=The%20Aviator's%20Wife&director=Éri
     "screenTime":"1981 / 106MIN / DCP",
     "link":"https://metrograph.com/film/?vista_film_id=9999002870",
     "time":"Saturday September 7_2:00pm",
-    "Description":"The inaugural film of Rohmer’s “Comedies and Proverbs” cycle, The Aviator’s Wife is a fleecy farce of romantic overanalysis that finds the director exploring the possibilities of handheld camerawork in following a narrative expression of the opening epigraph: “It is impossible to think of nothing.” A young man sees his girlfriend’s ex leaving her apartment one early morning, and his imagination is off to the races, as stars Philippe Marlaud and Marie Rivière introduce a younger, less perfectly articulate type of Rohmer character than those of the “Moral Tales.” A Metrograph Pictures release."
+    "Description":"The inaugural film of Rohmer’s “Comedies and Proverbs” cycle, The    Aviator’s Wife is a fleecy farce of romantic overanalysis that finds the director exploring the possibilities of handheld camerawork in following a narrative expression of the opening epigraph: “It is impossible to think of nothing.” A young man sees his girlfriend’s ex leaving her apartment one early morning, and his imagination is off to the races, as stars Philippe Marlaud and Marie Rivière introduce a younger, less perfectly articulate type of Rohmer character than those of the “Moral Tales.” A Metrograph Pictures release."
   },
+  ```
 
 **Configuration**
 
